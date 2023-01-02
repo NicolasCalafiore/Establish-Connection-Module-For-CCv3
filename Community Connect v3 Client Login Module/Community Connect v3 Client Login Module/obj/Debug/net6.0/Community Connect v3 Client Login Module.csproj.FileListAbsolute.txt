@@ -1,0 +1,17 @@
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.AssemblyInfo.cs
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\bin\Debug\net6.0\Community Connect v3 Client Login Module.exe
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\bin\Debug\net6.0\Community Connect v3 Client Login Module.deps.json
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\bin\Debug\net6.0\Community Connect v3 Client Login Module.runtimeconfig.json
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\bin\Debug\net6.0\Community Connect v3 Client Login Module.dll
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\bin\Debug\net6.0\Community Connect v3 Client Login Module.pdb
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.dll
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\refint\Community Connect v3 Client Login Module.dll
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.pdb
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.genruntimeconfig.cache
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\ref\Community Connect v3 Client Login Module.dll
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USer\source\repos\Community Connect v3 Client Login Module\Community Connect v3 Client Login Module\obj\Debug\net6.0\Community Connect v3 Client Login Module.csproj.CopyComplete
