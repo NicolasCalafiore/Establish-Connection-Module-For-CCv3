@@ -1,6 +1,6 @@
 # Connection Establisher For CCv3
 ## What the program is about (Version Independant)
-This was a program I made to help me practice simplifying my code and using single reponsibility principle. This is also a module that is apart of my Community Connect Repository that will be used for CCv3 to help establish a connection to a planned TCP server (https://github.com/NicolasCalafiore/Community-Connect). 
+This was a program I made to help me practice simplifying my code and using single reponsibility principle. This is also a module that is apart of my Community Connect Repository that will be used for CCv3 to help establish a connection to a planned TCP (Possibly a SQL) server (https://github.com/NicolasCalafiore/Community-Connect). 
 
 #### Created: Late 2022
 
